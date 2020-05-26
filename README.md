@@ -5,6 +5,8 @@
 > My start page inspired by [r/startpages](https://www.reddit.com/r/startpages/)
 
 
+work in progress
+
 # License
 
 [MIT License](https://github.com/danerwilliams/startpage/blob/master/LICENSE)
